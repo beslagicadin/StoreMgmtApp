@@ -1,0 +1,2 @@
+#ID A.  	Naziv A.       	 Kolicina        	Cijena  
+2	meso		5		10

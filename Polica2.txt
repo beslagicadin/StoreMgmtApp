@@ -1,0 +1,2 @@
+#ID A.  	Naziv A.       	 Kolicina        	Cijena  
+3	hljeb		10		1
